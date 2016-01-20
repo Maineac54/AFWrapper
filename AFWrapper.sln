@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AFWrapper", "AFWrapper\AFWrapper.csproj", "{8202AECB-A231-468A-9C86-7D424E5A5980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAFWrapper", "TestAFWrapper\TestAFWrapper.csproj", "{17F3426B-F35C-4709-AE93-9BA9465FCD10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8202AECB-A231-468A-9C86-7D424E5A5980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8202AECB-A231-468A-9C86-7D424E5A5980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8202AECB-A231-468A-9C86-7D424E5A5980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8202AECB-A231-468A-9C86-7D424E5A5980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17F3426B-F35C-4709-AE93-9BA9465FCD10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F3426B-F35C-4709-AE93-9BA9465FCD10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F3426B-F35C-4709-AE93-9BA9465FCD10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F3426B-F35C-4709-AE93-9BA9465FCD10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

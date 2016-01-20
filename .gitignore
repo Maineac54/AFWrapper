@@ -6,6 +6,9 @@
 *.user
 *.sln.docstates
 
+# Exclude the Test project
+Test*
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -187,3 +190,4 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+
